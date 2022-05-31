@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-31T15:23:59.321Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="CvSV8GZ4NhinhaU4V0nb" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-31T15:27:32.651Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="lmkSBGUkl9gIOOAyu93f" version="18.1.3" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="2062" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
           <mxGeometry x="410" y="240" width="65" height="85" as="geometry" />
         </mxCell>
         <mxCell id="8hZSfJT7vyOLuqcYr-60-4" value="TOL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="210" width="40" height="20" as="geometry" />
+          <mxGeometry x="58" y="210" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8hZSfJT7vyOLuqcYr-60-5" value="ORQ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="422.5" y="210" width="40" height="20" as="geometry" />
@@ -184,6 +184,9 @@
         </mxCell>
         <mxCell id="8hZSfJT7vyOLuqcYr-60-68" value="PROCESSANDO FILA DE PAGAMENTO E MESCLANDO OS DADOS SALVO NO BANCO COM OS DADOS DA FILA." style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="723.5" y="620" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="8hZSfJT7vyOLuqcYr-60-70" value="PROCESSAR FILA&amp;nbsp; PAGAMENTO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="995" y="530" width="200" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
