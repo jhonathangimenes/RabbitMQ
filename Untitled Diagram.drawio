@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-31T15:27:32.651Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="lmkSBGUkl9gIOOAyu93f" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-31T19:23:41.504Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="_THUfJzOyl7fD28qi0FP" version="18.1.3" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="2062" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -18,22 +18,17 @@
             <mxPoint x="555" y="282.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8hZSfJT7vyOLuqcYr-60-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8hZSfJT7vyOLuqcYr-60-3" target="8hZSfJT7vyOLuqcYr-60-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="442.5" y="417.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="8hZSfJT7vyOLuqcYr-60-3" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.license_server;" vertex="1" parent="1">
           <mxGeometry x="410" y="240" width="65" height="85" as="geometry" />
         </mxCell>
         <mxCell id="8hZSfJT7vyOLuqcYr-60-4" value="TOL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="58" y="210" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8hZSfJT7vyOLuqcYr-60-5" value="ORQ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="422.5" y="210" width="40" height="20" as="geometry" />
+        <mxCell id="8hZSfJT7vyOLuqcYr-60-5" value="OB-UTILITY&lt;br&gt;PUB DADOS AUDITORIA DISPOSITIVO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="205" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8hZSfJT7vyOLuqcYr-60-6" value="FILA CONSENTS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="738.5" y="215" width="110" height="20" as="geometry" />
+        <mxCell id="8hZSfJT7vyOLuqcYr-60-6" value="FILA DADOS DISPOSTIVO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="713.5" y="215" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8hZSfJT7vyOLuqcYr-60-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8hZSfJT7vyOLuqcYr-60-8" target="8hZSfJT7vyOLuqcYr-60-1">
           <mxGeometry relative="1" as="geometry">
@@ -82,13 +77,13 @@
           <mxGeometry x="410" y="510" width="65" height="85" as="geometry" />
         </mxCell>
         <mxCell id="8hZSfJT7vyOLuqcYr-60-11" value="MICROSERVICES PAGAMENTO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="347.5" y="480" width="190" height="20" as="geometry" />
+          <mxGeometry x="347.5" y="600" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8hZSfJT7vyOLuqcYr-60-12" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.document;" vertex="1" parent="1">
           <mxGeometry x="770" y="516.5" width="47" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="8hZSfJT7vyOLuqcYr-60-13" value="FILA DE PAGAMENTO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="723.5" y="490" width="140" height="20" as="geometry" />
+        <mxCell id="8hZSfJT7vyOLuqcYr-60-13" value="FILA DADOS PAGAMENTO FINALIZADO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="673.5" y="490" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8hZSfJT7vyOLuqcYr-60-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8hZSfJT7vyOLuqcYr-60-2" target="8hZSfJT7vyOLuqcYr-60-3">
           <mxGeometry relative="1" as="geometry">
@@ -98,9 +93,6 @@
         </mxCell>
         <mxCell id="8hZSfJT7vyOLuqcYr-60-19" value="CONSENTIMENTO ACEITO / CANCELADA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="260" width="250" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="8hZSfJT7vyOLuqcYr-60-22" value="CONSENTIMENTO ACEITO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="357.5" y="390" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8hZSfJT7vyOLuqcYr-60-25" value="PAGAMENTO FINALIZADO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="527.5" y="530" width="170" height="20" as="geometry" />
